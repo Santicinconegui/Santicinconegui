@@ -1,5 +1,5 @@
 <style>
-  
+  div{color:red;}
 </style>
 
 <h1>Hello! I'm Santiago Cinconegui <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
@@ -11,8 +11,8 @@
 - I am a MERN full stack developer.
 - I am a self-taught and highly creative individual who seeks to learn and improve every day.
 
+<div align=center>
 ### Technologies
-
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![SCSS](https://skillicons.dev/icons?i=scss)
@@ -23,19 +23,18 @@
 ![Redux](https://skillicons.dev/icons?i=redux)
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Git](https://skillicons.dev/icons?i=git)
-
-
 <br/>
 <br/>
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+</div>
 
-### Contact Me
+
 
 <div align=center>
+### Contact Me
 <a href="https://www.linkedin.com/in/santiago-cinconegui/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Santiago%20Cinconegui-blue?style=flat-square&logo=linkedin"></a>
 <a href="santiagocinconegui@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-santiagocinconegui@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
 </div>
