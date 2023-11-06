@@ -12,8 +12,8 @@
 - I am a self-taught and highly creative individual who seeks to learn and improve every day.
 
 ### Technologies
-<div align=center>
-  ![HTML5](https://skillicons.dev/icons?i=html)
+
+![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![SCSS](https://skillicons.dev/icons?i=scss)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
@@ -23,7 +23,7 @@
 ![Redux](https://skillicons.dev/icons?i=redux)
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Git](https://skillicons.dev/icons?i=git)
-</div>
+
 
 <br/>
 <br/>
