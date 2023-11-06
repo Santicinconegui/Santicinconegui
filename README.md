@@ -30,8 +30,8 @@
 
 
 
-<div align=center>
 ### Contact Me
+<div align=center>
 <a href="https://www.linkedin.com/in/santiago-cinconegui/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Santiago%20Cinconegui-blue?style=flat-square&logo=linkedin"></a>
 <a href="santiagocinconegui@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-santiagocinconegui@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </div>
