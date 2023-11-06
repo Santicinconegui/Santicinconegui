@@ -1,3 +1,7 @@
+<style>
+  
+</style>
+
 <h1>Hello! I'm Santiago Cinconegui <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
 <h2>Web Developer 🎨</h2>
 
@@ -8,8 +12,8 @@
 - I am a self-taught and highly creative individual who seeks to learn and improve every day.
 
 ### Technologies
-
-![HTML5](https://skillicons.dev/icons?i=html)
+<div align=center>
+  ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![SCSS](https://skillicons.dev/icons?i=scss)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
@@ -19,6 +23,8 @@
 ![Redux](https://skillicons.dev/icons?i=redux)
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Git](https://skillicons.dev/icons?i=git)
+</div>
+
 <br/>
 <br/>
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
