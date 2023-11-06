@@ -1,6 +1,4 @@
-<style>
-  div{color:red;}
-</style>
+
 
 <h1>Hello! I'm Santiago Cinconegui <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
 <h2>Web Developer 🎨</h2>
@@ -11,7 +9,6 @@
 - I am a MERN full stack developer.
 - I am a self-taught and highly creative individual who seeks to learn and improve every day.
 
-<div align=center>
 ### Technologies
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
@@ -29,7 +26,7 @@
 ![Express](https://skillicons.dev/icons?i=express)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
-</div>
+
 
 
 
